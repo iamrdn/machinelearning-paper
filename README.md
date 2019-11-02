@@ -1,4 +1,4 @@
-# machinelearning-paper
+# Machine learning paper
 
 Beginner friendly paper for machine learning. From decision tree, ensembling learning to optimizing methods. 
 Most of the included papers cover the basics and intermediate advanced topics of machine learning / deep learning 
