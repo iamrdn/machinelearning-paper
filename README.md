@@ -5,6 +5,19 @@ Most of the included papers cover the basics and intermediate advanced topics of
 and are therefore recommended for beginners. Some of them are pretty hard to understand, but are also included for the sake 
 of completeness.
 
+# My recommendations
+
+Following are researchs you should read if you want to dive diver into this field
+
 ## Activation functions
 
 * Activation functions: comparision of trends in practice and research for deep learning
+
+This research will show you the definition of activation functions and also the most famous ones in modern deep learning. 
+
+## Backpropagation
+
+* Backpropagation neural network
+
+A great paper about how neural networks correct its weights depending on its outputs. Very well explained with examples 
+of how popular activation functions can be derivated for backpropagation purpose.
